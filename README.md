@@ -1,5 +1,5 @@
 # RiderXUnitDiagnosticMessageIssue
-Reproduces an issue with Rider's xUnit logging
+Reproduces an issue with Rider's xUnit logging - filed here https://youtrack.jetbrains.com/issue/RIDER-60811
 
 When using xUnit's extensibility classes, verbose diagnostic output is rendered incorrectly in a test session's output log file.
 
